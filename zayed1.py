@@ -1,7 +1,7 @@
-z=int(input(""))
-if(z%2!=0):
+x=int(input(""))
+if(x%2!=0):
     print("Odd")
-elif(z%2==0):
+elif(x%2==0):
     print("Even")
 else:
     print("Invalid")
